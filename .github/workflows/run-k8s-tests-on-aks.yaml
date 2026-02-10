@@ -46,10 +46,6 @@ jobs:
           - ubuntu
         vmm:
           - clh
-          - dragonball
-          - qemu
-          - qemu-runtime-rs
-          - cloud-hypervisor
         instance-type:
           - small
           - normal
